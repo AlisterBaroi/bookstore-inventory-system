@@ -1,4 +1,4 @@
-# Bookkeeping Terminal Program
+# Bookstore Inventory Terminal Program
 A simple inventory management terminal program for a book store, with the ability to add/edit/remove records of books and customer purchases/transactions. 
 
 ## To demo the program:
