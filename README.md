@@ -2,7 +2,7 @@
 A simple inventory management terminal program for a book store, with the ability to add/edit/remove records of books and customer purchases/transactions. 
 
 ## To demo the program:
-1. Download the "Demo" folder,
+1. [Download](https://github.com/AlisterBaroi/bookstore-inventory-system/raw/2049f0b83199270a7edbf5647f01290e491425fa/Demo/MenuSystem.exe) the program,
 2. Run the "MenuSystem.exe" file,
 
 ## Features & functions:
